@@ -5,7 +5,6 @@ I am a backend python developer from Russia.
 
 I'm interested in telegram bots, web development ,etc
 
-If you wanna support me, my DonationAlerts https://www.donationalerts.com/r/interlumpen
 ## 📚 My stack
 ### lang
 <div>
